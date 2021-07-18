@@ -53,8 +53,15 @@ overflow: hidden;
  background: #FFCE33;
  color: black; 
  padding: 7px;
+ border-radius: 5px
 }
- 
+
+.nav_link_palote {
+ background: #FFCE33;
+ color: black;
+ padding: 7px
+ border-radius: 5px
+}
  
  
  
