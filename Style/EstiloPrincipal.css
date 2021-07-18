@@ -19,12 +19,12 @@ overflow: hidden;
  display: flex;
  justify-content: space-between;
  position: relative;
- height: 300px;
+ height: 250px;
   
 }
 
 .cabecera img{
- width: 100px;
+ width: 150px;
 }
 
 .cabecera_h1 {
