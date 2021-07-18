@@ -1,16 +1,17 @@
-*(
+*{
 margin: 0;
 padding: 0;
 front-family: 'Open Sans', sans-serif;
 
-)
+}
 
-.Contenedor padre (
+.Contenedor padre {
 border: solid 1px black;
 width: 100%;
+max-width: 1000px;
 margin: auto;
 box-sizing: border-box;
 overflow: hidden;
 
-)
+}
 
