@@ -5,7 +5,7 @@ front-family: 'Open Sans', sans-serif;
 
 }
 
-.contenedor padre{
+.contenedor {
 border: solid 1px black;
 width: 100%;
 max-width: 1000px;
