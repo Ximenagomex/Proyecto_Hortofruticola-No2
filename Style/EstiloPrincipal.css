@@ -62,6 +62,13 @@ overflow: hidden;
  padding: 7px
  border-radius: 4px;
 }
+
+.nav_link_Button {
+ background: #FFCE33;
+ color: black;
+ padding: 7px;
+ border-radius: 4px;
+}
  
  
  
