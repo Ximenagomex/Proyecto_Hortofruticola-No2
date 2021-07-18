@@ -38,6 +38,16 @@ overflow: hidden;
  top: 70px; 
  left: 235px;
 }
+
+.nav{
+ margin: 15px 15px 5 5;
+ position: unset;
+ background: none; 
+ height: auto;
+ width: unset; 
+ border: none;
+ 
+}
  
  
  
