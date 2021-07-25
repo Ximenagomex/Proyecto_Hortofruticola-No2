@@ -75,7 +75,7 @@ overflow: hidden;
 .galeria {
  width: 100%;
  height: 400px; 
- brackground: #333;
+ background: #333;
  display: flex;
  justify-content: center;
  align-items: center;
