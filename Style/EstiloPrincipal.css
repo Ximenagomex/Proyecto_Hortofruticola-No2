@@ -100,7 +100,7 @@ overflow: hidden;
 }
 
 .elemento2:checked ~ .galeria_contenedor {
- transform: translateX(-300px);
+ transform: translateX(-600px);
 }
  
  .elemento3:checked ~ .galeria_contenedor {
