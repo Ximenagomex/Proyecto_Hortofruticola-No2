@@ -19,7 +19,7 @@ overflow: hidden;
  display: flex;
  justify-content: space-between;
  position: relative;
- height: 220px;
+ height: 100px;
   
 }
 
@@ -40,7 +40,7 @@ overflow: hidden;
 }
 
 .nav{
- margin: 15px 15px 5 5;
+ margin: 10px 10px 0 0;
  position: unset;
  background: none; 
  height: auto;
@@ -59,15 +59,15 @@ overflow: hidden;
 .nav_link_palote {
  background: #E74C3C;
  color: black;
- padding: 7px;
- border-radius: 4px;
+ padding: 5px;
+ border-radius: 3px;
 }
 
 .nav_link_Button {
  background:#E74C3C ;
  color: black;
- padding: 7px;
- border-radius: 4px;
+ padding: 5px;
+ border-radius: 3px;
 }
  
 /******************************************/
