@@ -52,8 +52,8 @@ overflow: hidden;
 .nav_link{
  background: #E74C3C;
  color: black; 
- padding: 7px;
- border-radius: 4px;
+ padding: 5px;
+ border-radius: 3px;
 }
 
 .nav_link_palote {
