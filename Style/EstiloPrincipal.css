@@ -104,11 +104,11 @@ overflow: hidden;
 }
  
  .elemento3:checked ~ .galeria_contenedor {
- transform: translateX(-600px);
+ transform: translateX(-1200px);
 }
 
 .elemento4:checked ~ .galeria_contenedor {
- transform: translateX(-1200px);
+ transform: translateX(-1800px);
 }
  
 .controles {
