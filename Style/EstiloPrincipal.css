@@ -128,6 +128,47 @@ label {
  background:#F5B7B1 ; 
  display: block;
  cursor: pointer; 
-}
+} 
+
+/************MODULOS**************/
+
+.Modulos {
+display: grid;
+grid-template: repeat(3, 300px) / repeat(3, 300px);
+justifity-content: center;
+grid-gap: 16px;
+width: 100%;
+height: auto;
  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
