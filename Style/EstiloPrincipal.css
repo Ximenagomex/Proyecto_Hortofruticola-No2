@@ -157,6 +157,7 @@ height: auto;
 .Modelos img {
  position: relative;
  top: 5px;
+ padding: 5px;
  width: 35px;
  height: 60px;
  border-radius: 10px;
