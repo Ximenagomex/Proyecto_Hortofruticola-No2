@@ -176,7 +176,24 @@ height: auto;
 .Modulos h3 {
  text-align: center;
 }
+  
 
+
+/**************** PIEPAGINA ********************/
+
+.espacio {
+ position: relative; 
+ height: 20px; 
+}
+
+.piePagina {
+ display: flex;
+ justify-content: center; 
+ position: relative;
+ height: 105px;
+ background: #F5B7B1;
+ align-content: center;
+}
 
 
 
