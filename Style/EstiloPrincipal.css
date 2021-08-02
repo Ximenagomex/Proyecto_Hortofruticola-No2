@@ -156,7 +156,7 @@ height: auto;
 }
 
 
-.Modelos img {
+.Modulos img {
  position: relative;
  top: 5px;
  padding: 5px;
@@ -205,7 +205,15 @@ height: auto;
 
 
 
+/*responsive desig*/ 
 
+@media screen and (max-width: 600px) {
+ .Modulos { 
+    grid-template: repeat (1, 300px) / repeat (1, 300px) ;
+  
+     }
+ 
+}
 
 
 
