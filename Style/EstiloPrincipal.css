@@ -33,14 +33,7 @@ overflow: hidden;
  left: 150px;
 }
 
-.@font-face {
- font-family : letra;
- src: url(letratitulo); 
-} 
 
-.h1 { 
- font-familiy: letra;
-}
 
 .cabecera_frase {
  position: absolute;
