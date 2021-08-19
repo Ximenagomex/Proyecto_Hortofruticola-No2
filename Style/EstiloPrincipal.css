@@ -159,7 +159,7 @@ height: auto;
 .Modulos img {
  position: relative;
  top: 5px;
- padding: 5px;
+ padding: 35px;
  width: 150px;
  height: 100px;
  border-radius: 10px;
@@ -208,7 +208,7 @@ height: auto;
 
 @media screen and (max-width: 600px) {
     .Modulos {
-           grid-template: repeat (3, 300px) / repeat (2, 300px) ; 
+           grid-template: repeat (3, 300px) / repeat (1, 300px) ; 
        }
  
 }
@@ -216,7 +216,7 @@ height: auto;
 @media screen and (max-width: 600px) {
   
  
- .contenedor  {
+ .cabecera {
   display: flex; 
   justify-content: space-between;
   position: relative; 
@@ -224,7 +224,7 @@ height: auto;
  }
   
   
-  .cabecera {
+  .cabecera figure {
    width: 130px;
    margin: auto;
  }
