@@ -5,11 +5,11 @@
 body {
   margin:0;
   font-familiy: sans-serif;
-  background:#D5DBDB;
+  background:#DC7633;
 }
  
 .Contenedor-input  {
-  color:#DC7633 ;
+  color:#D5DBDB ;
   text-align: center;
 }
 
@@ -17,7 +17,7 @@ body {
   width:60%;
   max-width: 500px;
   margin: auto;
-  background:#DC7633;
+  background:#D5DBDB;
   border-radius: 7px;
 }
 
