@@ -8,12 +8,12 @@ body {
   background: #F5B7B1;
 }
  
-.Contenedor  {
+.Contenedor-input  {
   color:#fff;
   text-align: center;
 }
 
-.Form-Municipio {
+.Form_Municipio {
   width:60%;
   max-width: 500px;
   margin: auto;
