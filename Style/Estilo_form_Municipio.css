@@ -36,6 +36,14 @@ body {
 }
 
 
+.Contenedor-input {
+  padding: 5px 10px;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+
 
 
 
