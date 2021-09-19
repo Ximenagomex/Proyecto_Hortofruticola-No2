@@ -51,21 +51,21 @@ overflow: hidden;
 }
 
 .nav_link{
- background: #F5B7B1;
+ background:#52BE80 ;
  color: black; 
  padding: 5px;
  border-radius: 3px;
 }
 
 .nav_link_palote {
- background:#F5B7B1;
+ background:#52BE80;
  color: black;
  padding: 5px;
  border-radius: 3px;
 }
 
 .nav_link_Button {
- background:#F5B7B1 ;
+ background:#52BE80 ;
  color: black;
  padding: 5px;
  border-radius: 3px;
