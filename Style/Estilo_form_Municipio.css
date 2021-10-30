@@ -61,6 +61,20 @@ body {
   
 }
 
+.btn-insertar {
+  background: orange;
+  color: #7FB3D5;
+  margin: auto;
+  padding: 10px 40px;
+  cursor: pointer;
+  border-radius: 7px;
+}
+
+.btn-insertar: active {
+  transform: scale(1.05);
+}
+  
+
 
 
 
