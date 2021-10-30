@@ -178,7 +178,7 @@ height: auto;
  text-align: center;
 }
 
-.btn-insertar {
+.btn_municipios {
   background: orange;
   color: #7FB3D5;
   margin: auto;
@@ -187,7 +187,7 @@ height: auto;
   border-radius: 7px;
 }
 
-.btn-insertar: active {
+.btn_municipios: active {
   transform: scale(1.05);
 }
   
