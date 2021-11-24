@@ -8,13 +8,10 @@ body {
   background:#7FB3D5;
 }
  
-.Contenedor {
-  color: #D7DBDD;
-  text-align: center;
-}
+
 
 .Form_Municipio {
-  width:60%;
+  width: 60%;
   max-width: 500px;
   margin: auto;
   background:#D7DBDD;
@@ -24,7 +21,7 @@ body {
 
 .titulo-Form_Municipio {
   background:#4E94AB;
-  color:#17202A ;
+  color: #17202A;
   padding: 8px;
   text-aling: center; 
   font-weight: 100px;
@@ -50,15 +47,19 @@ body {
 }
 
 
-.tabla_botones {
+tabla_botones {
   text-align: center;
-  border: 1px solid darkgray;
+  border: 1px solid darkgray;  
+}
+
+.input-30 {
+  width: 30%;
+  
 }
 
 
-.input-50 {
-  width: 50%;
-  
+.input-70  {
+  width: 70%;
 }
 
 .btn-insertar {
@@ -73,7 +74,6 @@ body {
 .btn-insertar: active {
   transform: scale(1.05);
 }
-  
 
 
 
