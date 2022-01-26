@@ -8,13 +8,16 @@ body {
   background:#7FB3D5;
 }
  
-
+.contenedor {
+  color: #fff;
+  text-aling: center;
+}
 
 .Form_Municipio {
   width: 60%;
   max-width: 500px;
   margin: auto;
-  background:#D7DBDD;
+  background: #D7DBDD;
   border-radius: 7px;
 }
 
@@ -52,15 +55,13 @@ tabla_botones {
   border: 1px solid darkgray;  
 }
 
-.input-30 {
-  width: 30%;
+.input-50 {
+  width: 50%;
   
 }
 
 
-.input-70  {
-  width: 70%;
-}
+
 
 .btn-insertar {
   background: orange;
